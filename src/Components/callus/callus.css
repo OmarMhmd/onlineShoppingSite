@@ -1,0 +1,36 @@
+.area{
+    min-height: 565px;
+}
+
+.office{
+    width: 350px;
+    color: brown;
+    border-radius: 25px;
+    box-shadow: 0 2px 2px #88888A;
+    margin: 60px auto;
+
+
+
+}
+.mtStyle{
+    color: brown;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-size: 50px;
+    
+}
+.office span{
+    font-size: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top:10px;
+    color: #000;
+    font-size: 13px;
+    text-align: center;
+    display: block;
+    padding-bottom: 10px;
+}
+.office .spanme{
+    color: brown;
+}

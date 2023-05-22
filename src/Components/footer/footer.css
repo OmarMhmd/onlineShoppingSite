@@ -1,0 +1,9 @@
+footer{
+    display: flex;
+    justify-content: center;
+}
+.mtStyle{
+    font-size:30px;
+    color:brown;
+    margin-right: 5px;
+}

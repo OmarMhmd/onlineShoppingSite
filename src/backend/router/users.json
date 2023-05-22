@@ -1,0 +1,22 @@
+[
+    {
+        "fname": "Omar",
+        "lname": "AL-GBURI",
+        "email": "algburi89@gmail.com",
+        "password": "$2b$08$ogonBym5mUAEV30s7mh8fe4srnGToylTFOjYj4mJ7SfTPD7cLLoO.",
+        "state": "Mamak",
+        "street": "guzel yurt mah. kestane sk. no. 2/38",
+        "zip": "6010",
+        "type": "admin"
+    },
+    {
+        "fname": "aseen",
+        "lname": "amer",
+        "email": "algboryomer@ymail.com",
+        "password": "$2b$08$QNTnFft6Q5fcL5LjeQzOE.AqouMV6G2z5m6lkubKkU/a3BDuQeMzG",
+        "state": "Mamak",
+        "street": "guzel yurt mah. kestane sk. no. 2/38",
+        "zip": "6010",
+        "type": "user"
+    }
+]

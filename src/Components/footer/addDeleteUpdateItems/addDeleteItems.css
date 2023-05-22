@@ -1,0 +1,61 @@
+/*left side*/
+h2{
+    margin-top: 25px;
+    background-color: brown;
+    color: #fff;
+    padding: 5px;
+}
+button{
+   
+    border: none;
+    width: 123px;
+    text-align: left;
+    margin-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: #fff;
+    color: brown;
+
+}
+button:hover{
+    background-color: brown;
+    color:#fff;
+    transition-delay: 0.06s;
+}
+
+/*right side*/
+label{
+    font-size: 18px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 18px;
+    border-color: brown;
+    margin-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 5px;
+    margin-left: 18px;
+}
+fieldset
+{
+    width: 40%;
+    margin: 0 auto;
+}
+legend{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 15px;
+    color: #000;
+}
+textarea{
+
+}
+.size{
+    width: 125px;
+}
+
+/*add new item*/
+
+/*add new item*/

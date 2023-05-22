@@ -1,0 +1,20 @@
+
+.links{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 10px;
+    color: darkblue;
+    text-decoration: none;
+    padding: 7px;
+    
+}
+.links:nth-child(1)
+{
+    text-decoration: underline;
+
+}
+.links:hover{
+    transition-delay: 0.2s; 
+    color:#1A0031;
+    text-decoration: underline;
+}

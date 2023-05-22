@@ -1,0 +1,22 @@
+.container{
+    box-shadow: -1px 3px 5px #88888A;
+    /* min-height: 713px; */
+
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+#sign{
+    background-color: brown;
+    margin-top: 24px;
+    display: inline-block;
+    padding: 10px;
+    font-size: 18px;
+    font-family: times new roman;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 21px;
+}
